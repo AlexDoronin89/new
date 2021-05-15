@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Eight\bin\Debug\Eight.exe.config
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Eight\bin\Debug\Eight.exe
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Eight\bin\Debug\Eight.pdb
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Eight\obj\Debug\Eight.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Eight\obj\Debug\Eight.exe
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Eight\obj\Debug\Eight.pdb

@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\less\less\bin\Debug\less.exe.config
+C:\Users\user\source\repos\less\less\bin\Debug\less.exe
+C:\Users\user\source\repos\less\less\bin\Debug\less.pdb
+C:\Users\user\source\repos\less\less\obj\Debug\less.csprojAssemblyReference.cache
+C:\Users\user\source\repos\less\less\obj\Debug\less.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\less\less\obj\Debug\less.exe
+C:\Users\user\source\repos\less\less\obj\Debug\less.pdb

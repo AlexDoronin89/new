@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\a_lot_of_homework\bin\Debug\a_lot_of_homework.exe.config
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\a_lot_of_homework\bin\Debug\a_lot_of_homework.exe
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\a_lot_of_homework\bin\Debug\a_lot_of_homework.pdb
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\a_lot_of_homework\obj\Debug\a_lot_of_homework.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\a_lot_of_homework\obj\Debug\a_lot_of_homework.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\a_lot_of_homework\obj\Debug\a_lot_of_homework.exe
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\a_lot_of_homework\obj\Debug\a_lot_of_homework.pdb

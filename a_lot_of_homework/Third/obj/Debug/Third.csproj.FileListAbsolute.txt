@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Third\bin\Debug\Third.exe.config
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Third\bin\Debug\Third.exe
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Third\bin\Debug\Third.pdb
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Third\obj\Debug\Third.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Third\obj\Debug\Third.exe
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Third\obj\Debug\Third.pdb

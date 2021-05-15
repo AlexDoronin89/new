@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\eleven\bin\Debug\eleven.exe.config
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\eleven\bin\Debug\eleven.exe
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\eleven\bin\Debug\eleven.pdb
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\eleven\obj\Debug\eleven.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\eleven\obj\Debug\eleven.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\eleven\obj\Debug\eleven.exe
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\eleven\obj\Debug\eleven.pdb

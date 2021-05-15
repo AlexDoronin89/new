@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Nine\bin\Debug\Nine.exe.config
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Nine\bin\Debug\Nine.exe
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Nine\bin\Debug\Nine.pdb
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Nine\obj\Debug\Nine.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Nine\obj\Debug\Nine.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Nine\obj\Debug\Nine.exe
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Nine\obj\Debug\Nine.pdb

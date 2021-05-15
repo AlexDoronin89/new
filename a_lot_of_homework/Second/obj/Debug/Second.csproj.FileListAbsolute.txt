@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Second\bin\Debug\Second.exe.config
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Second\bin\Debug\Second.exe
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Second\bin\Debug\Second.pdb
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Second\obj\Debug\Second.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Second\obj\Debug\Second.exe
+C:\Users\user\Desktop\Новая папка (3)\a_lot_of_homework\Second\obj\Debug\Second.pdb
